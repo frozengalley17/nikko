@@ -1,0 +1,301 @@
+Employee ID,First Name,Last Name,Gender,Date of Birth,Hire Date,Termination Date,Status,Termination Reason,Country,Office,Department,Job Title,Job Level,Manager ID,Employment Type,FTE,Work Mode,Currency,Annual Base Salary,Performance Rating
+E10001,Aroha,Ryan,Female,1973-06-06,2021-06-07,,Active,,United Kingdom,Manchester,Marketing & Bids,Marketing Manager,4,,Full-time,1.0,Hybrid,GBP,79500,4
+E10002,Keira,Cooper,Female,1987-11-16,2019-12-31,,Active,,United Kingdom,London,Consulting,Consultant,2,E10021,Casual,0.3,Hybrid,GBP,46000,3
+E10003,Felix,Ali,Male,1988-10-05,2020-06-21,,Active,,United Kingdom,London,Finance,Accountant,2,E10182,Full-time,1.0,Office,GBP,48500,4
+E10004,Aroha,Lee,Female,1999-04-08,2024-02-20,,Active,,Canada,Toronto,Operations,Operations Officer,2,E10044,Full-time,1.0,Hybrid,CAD,72000,4
+E10005,William,King,Male,1962-01-25,2017-08-18,,On Leave,,United Kingdom,London,Finance,Finance Director,5,,Full-time,1.0,Hybrid,GBP,101500,3
+E10006,Imogen,Walker,Female,1991-11-04,2023-10-08,2025-01-02,Terminated,Resignation - Personal Reasons,Canada,Vancouver,Marketing & Bids,Bid Writer,2,E10184,Full-time,1.0,Office,CAD,79500,3
+E10007,William,Gagnon,Male,1995-04-03,2020-10-09,,Active,,United Kingdom,Manchester,Consulting,Consultant,2,E10179,Fixed-term,1.0,Office,GBP,41500,3
+E10008,Olivia,Taylor,Female,1996-08-29,2023-08-31,,Active,,Australia,Melbourne,Marketing & Bids,Marketing Coordinator,1,E10116,Full-time,1.0,Hybrid,AUD,60000,4
+E10009,Mateo,Bennett,Male,1991-01-01,2025-10-28,,Active,,United Kingdom,London,Engineering,Senior Engineer,3,E10248,Fixed-term,1.0,Hybrid,GBP,57500,4
+E10010,Liam,Fraser,Male,1998-01-03,2019-12-18,,Active,,Australia,Sydney,Marketing & Bids,Marketing Coordinator,1,E10116,Full-time,1.0,Hybrid,AUD,60000,2
+E10011,Arjun,Young,Male,1993-09-28,2023-10-21,,Active,,Ireland,Dublin,Consulting,Consultant,2,E10063,Full-time,1.0,Remote,EUR,51500,2
+E10012,Daniel,Chen,Male,1987-07-08,2025-11-24,,Active,,United Kingdom,London,Engineering,Senior Engineer,3,E10248,Full-time,1.0,Hybrid,GBP,59000,2
+E10013,Niamh,Singh,Female,1994-07-10,2019-08-27,,Active,,Australia,Melbourne,People & Culture,P&C Advisor,2,E10131,Full-time,1.0,Hybrid,AUD,89000,5
+E10014,Daniel,Wong,Male,1981-01-29,2019-12-12,,Active,,New Zealand,Wellington,Information Technology,Senior Systems Analyst,3,E10016,Fixed-term,1.0,Hybrid,NZD,120000,3
+E10015,Sophie,Jones,Female,1996-01-17,2023-10-02,,Active,,Australia,Melbourne,Engineering,Graduate Engineer,1,E10235,Fixed-term,1.0,Hybrid,AUD,60000,2
+E10016,Lachlan,Lee,Male,1986-12-03,2024-09-24,,Active,,Australia,Sydney,Information Technology,IT Manager,4,,Full-time,1.0,Office,AUD,156500,3
+E10017,Imogen,Scott,Female,1987-03-26,2020-10-11,,Active,,United Kingdom,London,Consulting,Senior Consultant,3,E10080,Full-time,1.0,Office,GBP,57500,2
+E10018,Marcus,Nguyen,Male,1976-11-07,2019-05-01,,Active,,Australia,Sydney,Finance,Senior Accountant,3,E10152,Fixed-term,1.0,Hybrid,AUD,102000,5
+E10019,Isla,Kelly,Female,1973-12-08,2021-07-11,,Active,,Australia,Melbourne,Project Delivery,Program Director,5,,Full-time,1.0,Office,AUD,193500,3
+E10020,Anika,Kaur,Female,1994-12-24,2019-02-07,2025-09-07,Terminated,Redundancy,United Kingdom,London,Engineering,Graduate Engineer,1,E10294,Full-time,1.0,Hybrid,GBP,37000,4
+E10021,Riley,Wong,Non-binary,1981-09-24,2018-09-21,,Active,,United Kingdom,Manchester,Consulting,Senior Consultant,3,E10080,Full-time,1.0,Remote,GBP,66000,3
+E10022,Cian,Chen,Male,1982-12-25,2025-09-18,,Active,,New Zealand,Auckland,Consulting,Senior Consultant,3,E10176,Part-time,0.6,Office,NZD,119500,3
+E10023,Niamh,Kaur,Female,1964-05-03,2016-11-13,2025-11-11,Terminated,Redundancy,United Kingdom,London,Finance,Finance Director,5,,Full-time,1.0,Remote,GBP,103500,4
+E10024,Callum,Murphy,Male,1999-11-21,2022-08-24,,Active,,Australia,Melbourne,Consulting,Analyst,1,E10252,Full-time,1.0,Hybrid,AUD,59500,3
+E10025,Cian,Smith,Prefer not to say,1998-06-16,2024-09-15,2026-10-16,Terminated,Resignation - Personal Reasons,Canada,Vancouver,Marketing & Bids,Bid Writer,2,E10065,Full-time,1.0,Hybrid,CAD,70000,1
+E10026,Layla,Ali,Female,1991-07-31,2017-09-23,,Active,,United Kingdom,London,Consulting,Consultant,2,E10031,Full-time,1.0,Office,GBP,49500,3
+E10027,Daniel,Kelly,Male,2000-11-08,2026-04-16,,Active,,New Zealand,Wellington,Engineering,Engineer,2,E10054,Part-time,0.8,Office,NZD,82500,3
+E10028,Sienna,Wong,Female,1988-05-17,2018-03-15,,Active,,Australia,Brisbane,Project Delivery,Project Officer,2,E10142,Full-time,1.0,Hybrid,AUD,80500,4
+E10029,Henry,Roy,Male,1977-02-01,2015-04-05,,Active,,Australia,Brisbane,Consulting,Associate Director,4,E10176,Full-time,1.0,Hybrid,AUD,134500,3
+E10030,Sienna,Ali,Female,1983-01-04,2023-08-09,,Active,,Australia,Sydney,Engineering,Senior Engineer,3,E10083,Full-time,1.0,Hybrid,AUD,105500,5
+E10031,Oliver,Harris,Male,1991-06-02,2024-09-22,,Active,,United Kingdom,London,Consulting,Senior Consultant,3,E10052,Full-time,1.0,Office,GBP,62000,5
+E10032,Maya,Thompson,Female,1992-06-15,2018-02-07,,Active,,Ireland,Dublin,Project Delivery,Project Officer,2,E10282,Full-time,1.0,Office,EUR,46500,4
+E10033,Ciara,Ali,Female,2003-10-23,2026-04-17,,Active,,United Kingdom,London,Engineering,Graduate Engineer,1,E10294,Fixed-term,1.0,Hybrid,GBP,33000,3
+E10034,Emily,Patel,Female,1988-02-27,2018-03-25,,Active,,United Kingdom,London,Consulting,Consultant,2,E10031,Part-time,0.8,Office,GBP,48500,4
+E10035,Callum,Cooper,Male,1995-07-31,2025-04-26,,Active,,United Kingdom,Manchester,Operations,Senior Operations Officer,3,E10229,Part-time,0.6,Hybrid,GBP,60500,2
+E10036,Liam,Nguyen,Male,1992-12-18,2024-11-16,,Active,,United Kingdom,London,Consulting,Consultant,2,E10021,Full-time,1.0,Hybrid,GBP,44500,3
+E10037,Sienna,Ali,Female,1984-06-28,2016-09-07,,Active,,Canada,Vancouver,Engineering,Senior Engineer,3,E10267,Full-time,1.0,Hybrid,CAD,91000,3
+E10038,Grace,Bennett,Female,1985-12-29,2022-02-14,,Active,,Australia,Sydney,Engineering,Senior Engineer,3,E10083,Full-time,1.0,Office,AUD,108500,3
+E10039,Anika,Ryan,Female,1994-12-29,2025-02-13,2025-12-21,Terminated,Redundancy,Australia,Sydney,Engineering,Senior Engineer,3,E10260,Full-time,1.0,Hybrid,AUD,107000,4
+E10040,Chloe,Reid,Female,1963-08-23,2021-06-28,,Active,,Canada,Toronto,Engineering,Engineering Manager,5,,Full-time,1.0,Office,CAD,164000,3
+E10041,Maya,Taylor,Female,2004-04-21,2025-10-24,,Active,,New Zealand,Auckland,Finance,Finance Officer,1,E10095,Full-time,1.0,Hybrid,NZD,64500,3
+E10042,Niamh,Hughes,Female,1994-04-10,2020-03-25,,On Leave,,Canada,Toronto,Engineering,Graduate Engineer,1,E10178,Full-time,1.0,Hybrid,CAD,50000,3
+E10043,Ibrahim,Byrne,Male,1996-02-29,2021-12-01,,Active,,Canada,Vancouver,Engineering,Graduate Engineer,1,E10178,Full-time,1.0,Office,CAD,49500,2
+E10044,Amelia,Campbell,Female,1983-02-02,2022-10-01,,Active,,United Kingdom,London,Operations,Senior Operations Officer,3,E10113,Full-time,1.0,Office,GBP,56500,3
+E10045,Chloe,Ryan,Female,1992-05-16,2018-02-11,,Active,,Canada,Toronto,Engineering,Graduate Engineer,1,E10178,Full-time,1.0,Remote,CAD,49500,3
+E10046,Priya,Walsh,Female,1983-06-13,2019-12-18,,Active,,Australia,Brisbane,Consulting,Senior Consultant,3,E10272,Part-time,0.4,Hybrid,AUD,116500,3
+E10047,Ella,Kelly,Female,1982-01-02,2024-05-12,2026-08-27,Terminated,Redundancy,Ireland,Dublin,Consulting,Director,5,,Full-time,1.0,Remote,EUR,104000,3
+E10048,Hugo,Ali,Male,1998-11-14,2026-10-13,,Active,,United Kingdom,Manchester,Project Delivery,Project Coordinator,1,E10056,Fixed-term,1.0,Hybrid,GBP,35500,3
+E10049,Amelia,Harris,Female,1999-03-05,2025-12-06,,Active,,Australia,Sydney,Project Delivery,Project Officer,2,E10282,Full-time,1.0,Office,AUD,78000,3
+E10050,Aoife,Lewis,Female,1992-03-08,2024-09-28,2026-08-18,Terminated,Redundancy,Australia,Sydney,Consulting,Consultant,2,E10219,Full-time,1.0,Hybrid,AUD,79000,3
+E10051,Niamh,Wilson,Female,1977-12-11,2022-08-21,2025-12-06,Terminated,Retirement,Ireland,Dublin,Operations,Operations Manager,4,E10090,Full-time,1.0,Hybrid,EUR,86000,4
+E10052,Anika,Hughes,Female,1974-12-29,2024-10-29,,Active,,United Kingdom,London,Consulting,Director,5,,Full-time,1.0,Office,GBP,106500,3
+E10053,Sienna,Smith,Female,1981-07-25,2018-09-20,,Active,,Canada,Toronto,Finance,Senior Accountant,3,E10211,Full-time,1.0,Hybrid,CAD,87000,3
+E10054,Emily,Nguyen,Female,1989-04-21,2024-09-08,,Active,,New Zealand,Auckland,Engineering,Senior Engineer,3,E10267,Full-time,1.0,Hybrid,NZD,113000,5
+E10055,Priya,Tan,Female,1984-08-21,2024-08-10,,Active,,United Kingdom,London,Information Technology,Senior Systems Analyst,3,E10016,Full-time,1.0,Hybrid,GBP,62000,2
+E10056,Freya,Wong,Female,1988-10-25,2020-03-28,,Active,,United Kingdom,London,Project Delivery,Project Officer,2,E10288,Full-time,1.0,Hybrid,GBP,41000,3
+E10057,Ciara,Reid,Female,1986-01-10,2019-06-11,,Active,,United Kingdom,London,Consulting,Consultant,2,E10179,Full-time,1.0,Hybrid,GBP,49000,4
+E10058,Marcus,Ryan,Male,1999-11-19,2024-06-04,,Active,,Australia,Melbourne,Operations,Operations Officer,2,E10263,Part-time,0.6,Remote,AUD,85000,4
+E10059,Jamie,Davies,Male,1993-03-30,2017-12-17,,Active,,New Zealand,Wellington,Information Technology,Service Desk Analyst,1,E10259,Full-time,1.0,Hybrid,NZD,61500,2
+E10060,Ruby,MacDonald,Female,1974-03-26,2025-02-26,,Active,,Australia,Melbourne,Project Delivery,Program Director,5,,Full-time,1.0,Hybrid,AUD,172500,2
+E10061,Keira,Chen,Female,1983-10-10,2025-11-25,,Active,,Canada,Toronto,Consulting,Senior Consultant,3,E10029,Full-time,1.0,Hybrid,CAD,86000,4
+E10062,Mei,Brown,Female,2001-03-27,2026-06-21,,Active,,New Zealand,Auckland,Engineering,Graduate Engineer,1,E10027,Full-time,1.0,Hybrid,NZD,58500,3
+E10063,Maya,Roy,Female,1983-01-18,2024-11-23,,On Leave,,Ireland,Dublin,Consulting,Senior Consultant,3,E10279,Full-time,1.0,Hybrid,EUR,66000,3
+E10064,Thomas,Byrne,Male,2000-04-20,2024-09-02,,Active,,United Kingdom,London,Information Technology,Service Desk Analyst,1,E10204,Full-time,1.0,Office,GBP,33000,3
+E10065,Samuel,Walker,Male,1983-01-11,2020-07-20,,Active,,Australia,Sydney,Marketing & Bids,Senior Bid Writer,3,E10001,Full-time,1.0,Remote,AUD,118000,4
+E10066,Hannah,Jones,Female,1988-10-11,2024-10-09,,Active,,New Zealand,Auckland,Consulting,Senior Consultant,3,E10176,Full-time,1.0,Remote,NZD,109500,4
+E10067,Hannah,Roy,Female,1985-01-21,2024-09-11,,Active,,Australia,Sydney,Information Technology,Senior Systems Analyst,3,E10016,Full-time,1.0,Hybrid,AUD,99500,3
+E10068,James,Walsh,Male,1958-10-28,2013-08-11,2025-06-07,Terminated,Performance,Australia,Sydney,Engineering,Engineering Manager,5,,Full-time,1.0,Office,AUD,196500,4
+E10069,Niamh,Williams,Female,1993-11-26,2018-12-31,,Active,,United Kingdom,Manchester,Engineering,Graduate Engineer,1,E10294,Full-time,1.0,Hybrid,GBP,34000,4
+E10070,Imogen,O'Brien,Female,1981-07-29,2019-01-09,,Active,,Ireland,Dublin,People & Culture,Senior P&C Advisor,3,E10130,Full-time,1.0,Office,EUR,60500,3
+E10071,Liam,Lewis,Male,1984-07-31,2024-12-09,,Active,,New Zealand,Auckland,Operations,Operations Manager,4,E10090,Full-time,1.0,Hybrid,NZD,135500,2
+E10072,Felix,Anderson,Male,1999-10-27,2024-02-01,,Active,,United Kingdom,London,People & Culture,P&C Administrator,1,E10183,Full-time,1.0,Hybrid,GBP,32000,3
+E10073,Imogen,Walker,Female,1989-06-21,2024-09-06,,Active,,Australia,Brisbane,People & Culture,Senior P&C Advisor,3,E10262,Full-time,1.0,Hybrid,AUD,103500,4
+E10074,Ruby,Thompson,Prefer not to say,1995-05-25,2023-09-05,,Active,,Australia,Sydney,Finance,Accountant,2,E10265,Full-time,1.0,Remote,AUD,85500,1
+E10075,Aoife,Nguyen,Prefer not to say,1960-10-22,2019-07-01,2026-08-19,Terminated,Retirement,United Kingdom,London,Engineering,Engineering Manager,5,,Full-time,1.0,Hybrid,GBP,112500,3
+E10076,Cian,Stewart,Male,1987-05-16,2022-01-09,,Active,,Australia,Brisbane,Project Delivery,Project Officer,2,E10142,Full-time,1.0,Hybrid,AUD,90500,3
+E10077,Nate,Reid,Male,1983-02-20,2025-10-13,2026-10-30,Terminated,Resignation - Personal Reasons,United Kingdom,London,Marketing & Bids,Marketing Manager,4,,Full-time,1.0,Hybrid,GBP,85500,2
+E10078,Oliver,Ng,Prefer not to say,1997-05-12,2025-02-20,,Active,,Australia,Brisbane,Operations,Office Administrator,1,E10232,Full-time,1.0,Hybrid,AUD,61500,3
+E10079,Ruby,Walker,Female,1982-09-28,2019-02-12,,Active,,United Kingdom,London,People & Culture,P&C Manager,4,,Full-time,1.0,Hybrid,GBP,72500,3
+E10080,Dev,Robinson,Male,1967-07-15,2018-07-05,,Active,,United Kingdom,London,Consulting,Director,5,,Full-time,1.0,Office,GBP,109500,4
+E10081,Owen,Roberts,Male,1997-11-13,2025-03-28,,Active,,New Zealand,Auckland,Finance,Finance Officer,1,E10095,Full-time,1.0,Hybrid,NZD,67500,4
+E10082,Arjun,Harris,Male,1976-10-27,2016-10-31,,Active,,Ireland,Dublin,Operations,Senior Operations Officer,3,E10071,Casual,0.3,Remote,EUR,61000,3
+E10083,Sienna,Bennett,Female,1978-11-21,2012-12-17,,Active,,Australia,Melbourne,Engineering,Principal Engineer,4,E10040,Full-time,1.0,Hybrid,AUD,149500,2
+E10084,Liam,Sharma,Male,1999-03-10,2025-02-28,,Active,,Ireland,Dublin,Engineering,Graduate Engineer,1,E10276,Full-time,1.0,Office,EUR,40000,5
+E10085,Amelia,Murphy,Female,2002-08-16,2023-08-19,,Active,,Australia,Sydney,Engineering,Graduate Engineer,1,E10110,Full-time,1.0,Hybrid,AUD,60000,4
+E10086,Quinn,Hughes,Non-binary,1980-12-05,2016-11-30,,Active,,Australia,Brisbane,Engineering,Senior Engineer,3,E10083,Fixed-term,1.0,Hybrid,AUD,99500,3
+E10087,Mateo,Nguyen,Male,2005-02-01,2026-04-07,,Active,,Canada,Vancouver,Project Delivery,Project Coordinator,1,E10284,Full-time,1.0,Office,CAD,61000,2
+E10088,Niamh,Williams,Female,1969-02-10,2018-07-20,,Active,,Canada,Toronto,Project Delivery,Senior Project Manager,4,E10060,Full-time,1.0,Remote,CAD,118000,2
+E10089,Chloe,Wong,Female,1997-08-22,2026-01-05,,Active,,Australia,Melbourne,People & Culture,P&C Advisor,2,E10073,Casual,0.3,Office,AUD,76000,4
+E10090,Mateo,Campbell,Prefer not to say,1974-08-28,2015-05-25,,On Leave,,New Zealand,Auckland,Operations,Head of Operations,5,,Full-time,1.0,Office,NZD,206000,2
+E10091,Henry,King,Male,1999-09-15,2021-03-28,,Active,,Australia,Melbourne,Engineering,Graduate Engineer,1,E10143,Full-time,1.0,Remote,AUD,56500,2
+E10092,Ethan,Reid,Prefer not to say,1994-05-12,2016-08-11,,Active,,United Kingdom,London,Engineering,Graduate Engineer,1,E10294,Fixed-term,1.0,Hybrid,GBP,33500,4
+E10093,Liam,Scott,Male,1966-06-29,2012-09-26,,Active,,United Kingdom,Manchester,People & Culture,P&C Manager,4,,Full-time,1.0,Hybrid,GBP,71000,3
+E10094,Charlotte,Nguyen,Female,1991-05-01,2022-09-29,,Active,,Australia,Sydney,Consulting,Senior Consultant,3,E10150,Full-time,1.0,Office,AUD,115500,4
+E10095,Ruby,Tan,Female,1985-12-09,2025-11-04,,Active,,New Zealand,Auckland,Finance,Senior Accountant,3,E10211,Full-time,1.0,Office,NZD,105000,4
+E10096,Imogen,Stewart,Female,1987-05-28,2020-07-22,,Active,,Australia,Sydney,Consulting,Senior Consultant,3,E10272,Full-time,1.0,Hybrid,AUD,106500,4
+E10097,Henry,Singh,Male,1999-03-23,2024-12-09,,Active,,New Zealand,Auckland,Consulting,Analyst,1,E10122,Full-time,1.0,Hybrid,NZD,72500,3
+E10098,Henry,Thompson,Male,1974-12-23,2014-12-17,,Active,,Canada,Toronto,Project Delivery,Senior Project Manager,4,E10019,Full-time,1.0,Hybrid,CAD,133000,4
+E10099,Mei,Kaur,Female,2000-05-23,2025-08-02,,Active,,United Kingdom,London,Engineering,Graduate Engineer,1,E10294,Full-time,1.0,Hybrid,GBP,36500,4
+E10100,Anika,Campbell,Female,1998-10-13,2023-02-04,,Active,,United Kingdom,Manchester,Project Delivery,Project Officer,2,E10198,Full-time,1.0,Hybrid,GBP,46500,2
+E10101,Olivia,Clarke,Female,1997-02-06,2024-08-24,,Active,,United Kingdom,London,Consulting,Consultant,2,E10179,Full-time,1.0,Hybrid,GBP,46000,2
+E10102,Dev,Walker,Male,1987-09-30,2016-07-02,,Active,,New Zealand,Auckland,Consulting,Senior Consultant,3,E10176,Full-time,1.0,Office,NZD,108000,2
+E10103,Layla,Smith,Female,1990-10-25,2023-09-28,,Active,,United Kingdom,London,Project Delivery,Project Officer,2,E10198,Full-time,1.0,Hybrid,GBP,50000,3
+E10104,Noah,Davies,Male,1998-04-29,2024-01-19,,Active,,United Kingdom,Manchester,Consulting,Consultant,2,E10173,Full-time,1.0,Hybrid,GBP,46500,4
+E10105,Maya,Ryan,Female,1989-08-12,2023-01-18,,Active,,Ireland,Dublin,Engineering,Engineer,2,E10177,Fixed-term,1.0,Hybrid,EUR,46500,2
+E10106,Owen,O'Brien,Male,1992-08-10,2020-10-06,,Active,,Australia,Sydney,Engineering,Engineer,2,E10030,Full-time,1.0,Hybrid,AUD,81500,3
+E10107,Jack,Clarke,Male,1988-07-24,2026-10-20,,Active,,Australia,Sydney,Operations,Operations Manager,4,E10090,Full-time,1.0,Remote,AUD,128000,3
+E10108,Liam,Campbell,Male,1986-01-09,2017-10-05,,Active,,Australia,Melbourne,Finance,Accountant,2,E10265,Fixed-term,1.0,Office,AUD,77000,3
+E10109,Owen,Hughes,Male,1994-03-12,2024-08-09,,Active,,Australia,Melbourne,Marketing & Bids,Senior Bid Writer,3,E10001,Full-time,1.0,Hybrid,AUD,101500,3
+E10110,Liam,Evans,Male,1997-09-13,2025-10-22,,Active,,Australia,Melbourne,Engineering,Engineer,2,E10030,Full-time,1.0,Hybrid,AUD,79000,4
+E10111,Keira,Jones,Female,1997-10-27,2025-12-25,2026-09-16,Terminated,Resignation - Better Opportunity,New Zealand,Auckland,Project Delivery,Project Officer,2,E10297,Full-time,1.0,Hybrid,NZD,94500,5
+E10112,Ella,Martin,Female,1999-04-26,2022-03-20,,Active,,Australia,Melbourne,Consulting,Analyst,1,E10252,Full-time,1.0,Remote,AUD,66500,3
+E10113,Oliver,Wilson,Male,1972-11-29,2018-05-29,,Active,,Australia,Melbourne,Operations,Operations Manager,4,E10090,Full-time,1.0,Hybrid,AUD,155000,4
+E10114,Daniel,Walsh,Male,1998-09-03,2025-07-28,,Active,,Ireland,Dublin,Engineering,Engineer,2,E10177,Part-time,0.4,Office,EUR,49500,4
+E10115,Freya,Wong,Female,1991-12-21,2018-06-01,,Active,,Australia,Sydney,Engineering,Graduate Engineer,1,E10266,Full-time,1.0,Hybrid,AUD,67500,3
+E10116,James,O'Brien,Male,1994-06-25,2018-12-29,,Active,,Australia,Sydney,Marketing & Bids,Bid Writer,2,E10109,Full-time,1.0,Hybrid,AUD,83000,3
+E10117,Henry,Sharma,Male,1989-04-13,2021-11-03,,Active,,Australia,Melbourne,Consulting,Senior Consultant,3,E10150,Full-time,1.0,Hybrid,AUD,99000,4
+E10118,Zoe,Bennett,Female,1989-04-11,2024-08-02,,Active,,Australia,Sydney,Consulting,Senior Consultant,3,E10150,Full-time,1.0,Hybrid,AUD,113500,3
+E10119,Ruby,Cooper,Female,1990-01-09,2024-12-08,,Active,,Canada,Toronto,Project Delivery,Project Manager,3,E10098,Full-time,1.0,Hybrid,CAD,106000,5
+E10120,Samuel,King,Male,1998-03-08,2025-09-03,,Active,,Australia,Brisbane,Engineering,Graduate Engineer,1,E10143,Part-time,0.6,Hybrid,AUD,61000,4
+E10121,Anika,Harris,Female,1980-11-20,2024-12-01,2025-10-04,Terminated,Resignation - Personal Reasons,United Kingdom,London,Engineering,Principal Engineer,4,E10248,Full-time,1.0,Office,GBP,83000,4
+E10122,Freya,Cooper,Female,1988-01-05,2018-11-04,,Active,,New Zealand,Auckland,Consulting,Consultant,2,E10022,Full-time,1.0,Office,NZD,86000,3
+E10123,Hannah,Tremblay,Female,1979-01-22,2018-02-21,,Active,,New Zealand,Wellington,Consulting,Senior Consultant,3,E10176,Full-time,1.0,Office,NZD,115500,3
+E10124,Aoife,Singh,Female,1999-07-24,2021-11-03,,Active,,Australia,Sydney,Consulting,Analyst,1,E10159,Full-time,1.0,Hybrid,AUD,57500,2
+E10125,Mia,Young,Female,1996-11-01,2021-04-30,2025-11-17,Terminated,Resignation - Career Change,Australia,Melbourne,Consulting,Analyst,1,E10252,Full-time,1.0,Hybrid,AUD,62500,2
+E10126,Rohan,Davies,Male,1990-08-14,2023-11-30,,Active,,Canada,Toronto,Project Delivery,Project Manager,3,E10088,Casual,0.3,Hybrid,CAD,92000,3
+E10127,Imogen,Ryan,Female,1988-04-22,2019-06-07,,Active,,New Zealand,Auckland,Consulting,Senior Consultant,3,E10176,Full-time,1.0,Office,NZD,106000,3
+E10128,Samuel,Williams,Prefer not to say,1991-01-09,2018-10-28,2025-04-02,Terminated,Resignation - Personal Reasons,Canada,Toronto,Engineering,Graduate Engineer,1,E10178,Full-time,1.0,Hybrid,CAD,58500,3
+E10129,Hana,Thompson,Female,1997-12-27,2025-11-18,,Active,,Canada,Vancouver,Information Technology,Service Desk Analyst,1,E10133,Full-time,1.0,Hybrid,CAD,52500,3
+E10130,Nate,Sharma,Male,1970-10-07,2015-10-19,,Active,,Canada,Toronto,People & Culture,P&C Manager,4,,Full-time,1.0,Office,CAD,132500,3
+E10131,Leila,Wilson,Female,1994-11-25,2026-02-23,,Active,,Australia,Melbourne,People & Culture,Senior P&C Advisor,3,E10079,Full-time,1.0,Hybrid,AUD,108500,5
+E10132,Sienna,Park,Female,2003-01-29,2025-03-04,,Active,,New Zealand,Wellington,Consulting,Analyst,1,E10122,Full-time,1.0,Hybrid,NZD,63000,4
+E10133,Sam,Park,Non-binary,1993-07-05,2024-05-14,,Active,,Australia,Sydney,Information Technology,Systems Analyst,2,E10067,Full-time,1.0,Hybrid,AUD,88500,3
+E10134,Aroha,Harris,Female,1985-07-08,2016-01-13,,Active,,Australia,Melbourne,Consulting,Senior Consultant,3,E10279,Full-time,1.0,Office,AUD,105000,3
+E10135,Hugo,Lee,Male,2000-04-25,2025-06-08,,Active,,Australia,Sydney,Finance,Finance Officer,1,E10108,Fixed-term,1.0,Office,AUD,62000,3
+E10136,Imogen,Chen,Female,2000-02-01,2025-08-27,,Active,,United Kingdom,London,Engineering,Graduate Engineer,1,E10193,Full-time,1.0,Office,GBP,31000,2
+E10137,Daniel,Williams,Male,1992-03-21,2018-09-03,,Active,,Australia,Melbourne,Finance,Accountant,2,E10265,Full-time,1.0,Hybrid,AUD,86500,4
+E10138,Oliver,Ryan,Male,1990-01-24,2017-06-23,,Active,,Australia,Sydney,Consulting,Analyst,1,E10159,Full-time,1.0,Hybrid,AUD,69000,3
+E10139,Ruby,Kelly,Female,2001-08-02,2023-09-09,,Active,,Australia,Melbourne,Engineering,Graduate Engineer,1,E10143,Full-time,1.0,Hybrid,AUD,61000,3
+E10140,Ella,Ng,Female,2000-06-18,2026-04-09,2026-07-28,Terminated,Resignation - Personal Reasons,United Kingdom,Manchester,Operations,Office Administrator,1,E10144,Full-time,1.0,Hybrid,GBP,36500,4
+E10141,Owen,Nguyen,Male,1998-11-24,2023-07-29,,Active,,Canada,Toronto,Engineering,Graduate Engineer,1,E10178,Fixed-term,1.0,Hybrid,CAD,61000,3
+E10142,Priya,Ryan,Female,1992-12-27,2024-04-03,,Active,,Australia,Sydney,Project Delivery,Project Manager,3,E10181,Full-time,1.0,Remote,AUD,106500,3
+E10143,Quinn,Patel,Non-binary,1993-05-16,2025-04-05,,Active,,Australia,Melbourne,Engineering,Engineer,2,E10199,Full-time,1.0,Hybrid,AUD,77000,4
+E10144,Layla,Fraser,Female,1975-10-07,2017-01-23,,Active,,United Kingdom,London,Operations,Senior Operations Officer,3,E10229,Full-time,1.0,Hybrid,GBP,54500,4
+E10145,Olivia,Reid,Female,1996-04-15,2020-08-27,,Active,,Ireland,Dublin,Project Delivery,Project Officer,2,E10142,Full-time,1.0,Office,EUR,52000,5
+E10146,Jack,Lewis,Male,1986-03-21,2025-05-17,2026-10-31,Terminated,Redundancy,Australia,Melbourne,Consulting,Senior Consultant,3,E10279,Part-time,0.8,Office,AUD,107500,2
+E10147,Charlotte,Brown,Female,1993-07-14,2018-01-30,2026-10-24,Terminated,Resignation - Career Change,Canada,Toronto,Project Delivery,Project Coordinator,1,E10187,Full-time,1.0,Hybrid,CAD,60000,2
+E10148,Layla,Evans,Female,1987-12-14,2021-09-28,2026-02-12,Terminated,Performance,Ireland,Dublin,Engineering,Engineer,2,E10177,Full-time,1.0,Remote,EUR,52000,3
+E10149,Marcus,Campbell,Male,1991-07-06,2017-04-12,2024-12-15,Terminated,Resignation - Relocation,Australia,Sydney,Project Delivery,Project Coordinator,1,E10049,Full-time,1.0,Office,AUD,58000,3
+E10150,Noah,Robinson,Male,1964-08-27,2012-04-28,,Active,,Australia,Melbourne,Consulting,Associate Director,4,E10080,Full-time,1.0,Hybrid,AUD,139500,4
+E10151,Niamh,Kelly,Female,1993-07-27,2021-01-15,,Active,,United Kingdom,Manchester,Engineering,Graduate Engineer,1,E10193,Full-time,1.0,Remote,GBP,31000,3
+E10152,Felix,Davies,Male,1963-09-04,2018-06-12,,Active,,Australia,Sydney,Finance,Finance Director,5,,Full-time,1.0,Office,AUD,202500,3
+E10153,Arjun,Cooper,Male,1988-01-23,2018-12-09,,Active,,Canada,Toronto,People & Culture,Senior P&C Advisor,3,E10262,Fixed-term,1.0,Hybrid,CAD,91000,3
+E10154,Arjun,Gagnon,Male,1999-03-01,2023-11-19,,Active,,New Zealand,Auckland,Engineering,Graduate Engineer,1,E10027,Full-time,1.0,Hybrid,NZD,72000,4
+E10155,Grace,Wilson,Female,2001-10-19,2026-04-17,,Active,,Canada,Toronto,Engineering,Graduate Engineer,1,E10178,Full-time,1.0,Office,CAD,49500,3
+E10156,Ibrahim,Khan,Male,1991-07-20,2023-10-30,2024-12-18,Terminated,Performance,New Zealand,Wellington,Consulting,Consultant,2,E10022,Full-time,1.0,Hybrid,NZD,80000,4
+E10157,Niamh,Harris,Female,1997-09-14,2024-10-02,,Active,,Canada,Toronto,Marketing & Bids,Marketing Coordinator,1,E10207,Part-time,0.8,Hybrid,CAD,57500,4
+E10158,Hana,Wilson,Female,1997-07-13,2025-08-24,,Active,,New Zealand,Auckland,Engineering,Senior Engineer,3,E10267,Full-time,1.0,Hybrid,NZD,106500,4
+E10159,Ciara,Kelly,Female,1998-08-20,2024-08-30,,Active,,Australia,Sydney,Consulting,Consultant,2,E10094,Full-time,1.0,Office,AUD,82500,2
+E10160,Niamh,Gagnon,Female,2001-06-14,2026-07-06,,Active,,New Zealand,Auckland,Marketing & Bids,Bid Writer,2,E10065,Full-time,1.0,Office,NZD,81500,3
+E10161,Callum,Sharma,Male,1994-08-05,2026-08-29,,Active,,United Kingdom,London,Consulting,Consultant,2,E10021,Full-time,1.0,Hybrid,GBP,42500,3
+E10162,Freya,Campbell,Prefer not to say,1992-09-01,2021-04-19,,Active,,Canada,Vancouver,Engineering,Senior Engineer,3,E10267,Full-time,1.0,Hybrid,CAD,101000,3
+E10163,Rohan,Kelly,Male,1991-01-12,2017-08-10,,Active,,Canada,Vancouver,Consulting,Analyst,1,E10222,Part-time,0.6,Office,CAD,55000,3
+E10164,Charlotte,Murphy,Female,1997-09-05,2024-06-13,,Active,,United Kingdom,Manchester,Consulting,Analyst,1,E10161,Full-time,1.0,Hybrid,GBP,32500,3
+E10165,Marcus,Lee,Male,1992-07-10,2026-06-01,,Active,,United Kingdom,London,Consulting,Consultant,2,E10179,Full-time,1.0,Hybrid,GBP,50500,3
+E10166,Dev,Murphy,Male,1996-03-13,2022-08-05,,Active,,United Kingdom,London,Engineering,Graduate Engineer,1,E10294,Full-time,1.0,Hybrid,GBP,36000,5
+E10167,Layla,Anderson,Female,2002-01-03,2023-09-29,,Active,,Australia,Melbourne,Engineering,Graduate Engineer,1,E10223,Full-time,1.0,Hybrid,AUD,59500,3
+E10168,Priya,Fraser,Female,1995-05-28,2025-07-24,,Active,,Australia,Sydney,Engineering,Engineer,2,E10174,Full-time,1.0,Hybrid,AUD,91500,4
+E10169,Chloe,Patel,Female,2000-06-27,2024-08-15,,Active,,United Kingdom,London,Finance,Finance Officer,1,E10003,Casual,0.3,Office,GBP,34000,2
+E10170,Mia,Robinson,Female,1991-12-27,2019-02-11,2024-11-29,Terminated,End of Fixed-term Contract,United Kingdom,Manchester,People & Culture,P&C Advisor,2,E10093,Part-time,0.4,Remote,GBP,42500,1
+E10171,Henry,Roy,Male,1995-07-15,2019-09-13,,Active,,Australia,Sydney,Project Delivery,Project Coordinator,1,E10285,Full-time,1.0,Office,AUD,58500,3
+E10172,Rohan,King,Male,1985-02-15,2022-07-15,,Active,,New Zealand,Auckland,Consulting,Senior Consultant,3,E10176,Full-time,1.0,Hybrid,NZD,108000,4
+E10173,Tane,Walsh,Male,1985-02-09,2016-07-07,,Active,,United Kingdom,London,Consulting,Senior Consultant,3,E10052,Casual,0.3,Hybrid,GBP,58500,3
+E10174,Tane,Wong,Male,1979-05-21,2016-03-11,,Active,,Australia,Melbourne,Engineering,Senior Engineer,3,E10260,Full-time,1.0,Remote,AUD,107000,4
+E10175,Tessa,Harris,Female,1994-05-24,2021-12-03,,Active,,Canada,Toronto,Consulting,Analyst,1,E10222,Part-time,0.4,Hybrid,CAD,59500,3
+E10176,Mia,Reid,Female,1970-01-24,2023-09-16,,Active,,New Zealand,Wellington,Consulting,Director,5,,Full-time,1.0,Hybrid,NZD,191000,3
+E10177,Hannah,Taylor,Female,1985-12-16,2022-09-24,,Active,,Ireland,Dublin,Engineering,Senior Engineer,3,E10267,Full-time,1.0,Hybrid,EUR,60000,3
+E10178,Sienna,Tan,Female,1985-06-28,2020-01-26,,Active,,Canada,Toronto,Engineering,Engineer,2,E10162,Full-time,1.0,Office,CAD,78500,5
+E10179,Mei,O'Brien,Female,1992-03-07,2021-06-01,,Active,,United Kingdom,London,Consulting,Senior Consultant,3,E10217,Full-time,1.0,Hybrid,GBP,57000,3
+E10180,Oisin,Wong,Male,1991-05-27,2024-08-27,,Active,,United Kingdom,Manchester,Operations,Senior Operations Officer,3,E10107,Full-time,1.0,Hybrid,GBP,55500,4
+E10181,Freya,Wong,Female,1977-01-28,2022-03-15,,Active,,Australia,Sydney,Project Delivery,Program Director,5,,Full-time,1.0,Hybrid,AUD,177500,3
+E10182,Keira,Thompson,Female,1983-02-01,2022-06-12,,Active,,United Kingdom,London,Finance,Senior Accountant,3,E10005,Full-time,1.0,Hybrid,GBP,63500,5
+E10183,Hannah,Harris,Female,2000-10-21,2026-07-16,,Active,,United Kingdom,London,People & Culture,P&C Advisor,2,E10093,Full-time,1.0,Office,GBP,46500,4
+E10184,Felix,Roberts,Male,1977-12-08,2018-09-13,,Active,,Ireland,Dublin,Marketing & Bids,Senior Bid Writer,3,E10001,Full-time,1.0,Hybrid,EUR,64000,4
+E10185,Jamie,Brown,Male,1983-06-25,2025-06-05,,Active,,Australia,Sydney,Consulting,Senior Consultant,3,E10150,Full-time,1.0,Office,AUD,109500,2
+E10186,Ryan,Harris,Male,1999-10-06,2024-12-07,,Active,,Australia,Melbourne,People & Culture,P&C Administrator,1,E10089,Full-time,1.0,Remote,AUD,59500,3
+E10187,Zoe,Singh,Female,1992-11-24,2025-01-03,,Active,,Canada,Toronto,Project Delivery,Project Officer,2,E10119,Full-time,1.0,Hybrid,CAD,80500,3
+E10188,Callum,Park,Male,2002-10-18,2025-03-20,2025-08-31,Terminated,Performance,Australia,Melbourne,Engineering,Graduate Engineer,1,E10110,Full-time,1.0,Hybrid,AUD,57000,4
+E10189,Maya,Clarke,Female,1987-07-13,2023-08-20,,Active,,Australia,Sydney,Consulting,Senior Consultant,3,E10150,Full-time,1.0,Hybrid,AUD,115000,2
+E10190,Mateo,Kaur,Male,1988-10-26,2024-05-27,,Active,,United Kingdom,London,Information Technology,Senior Systems Analyst,3,E10016,Full-time,1.0,Hybrid,GBP,66500,2
+E10191,Aroha,Stewart,Female,1993-09-04,2019-02-25,,Active,,United Kingdom,London,Finance,Finance Officer,1,E10003,Fixed-term,1.0,Hybrid,GBP,31500,3
+E10192,Freya,Williams,Female,1998-03-15,2025-05-08,,Active,,Ireland,Dublin,Operations,Operations Officer,2,E10082,Full-time,1.0,Hybrid,EUR,46500,5
+E10193,Isla,Campbell,Female,1989-01-13,2023-10-02,,Active,,United Kingdom,Manchester,Engineering,Engineer,2,E10238,Full-time,1.0,Hybrid,GBP,44500,4
+E10194,Keira,Sharma,Female,2001-08-07,2026-09-04,,Active,,Australia,Melbourne,Consulting,Analyst,1,E10202,Full-time,1.0,Hybrid,AUD,61500,3
+E10195,Charlotte,Martin,Female,1993-11-15,2017-11-02,,Active,,United Kingdom,Manchester,Consulting,Analyst,1,E10104,Full-time,1.0,Office,GBP,35500,3
+E10196,Mateo,Patel,Male,1993-06-26,2021-06-27,,Active,,Australia,Melbourne,Engineering,Senior Engineer,3,E10260,Full-time,1.0,Hybrid,AUD,109000,3
+E10197,Henry,Anderson,Male,1997-03-01,2026-04-23,,Active,,United Kingdom,London,Marketing & Bids,Bid Writer,2,E10001,Full-time,1.0,Office,GBP,46500,3
+E10198,Zoe,King,Female,1971-11-01,2015-12-04,,Active,,United Kingdom,London,Project Delivery,Senior Project Manager,4,E10060,Full-time,1.0,Office,GBP,78500,3
+E10199,Jamie,Khan,Male,1994-06-20,2024-08-06,,On Leave,,Australia,Sydney,Engineering,Senior Engineer,3,E10083,Full-time,1.0,Hybrid,AUD,99000,4
+E10200,Sienna,Lee,Prefer not to say,2002-07-16,2024-01-30,,On Leave,,New Zealand,Auckland,Engineering,Graduate Engineer,1,E10027,Full-time,1.0,Hybrid,NZD,61000,4
+E10201,Marcus,Wong,Male,1983-12-29,2024-04-02,,Active,,Ireland,Dublin,Consulting,Senior Consultant,3,E10150,Full-time,1.0,Hybrid,EUR,71500,4
+E10202,Olivia,Roberts,Female,1995-03-28,2024-01-21,,Active,,Australia,Melbourne,Consulting,Consultant,2,E10094,Full-time,1.0,Hybrid,AUD,78500,2
+E10203,Hannah,MacDonald,Female,1981-08-25,2018-04-25,,Active,,New Zealand,Wellington,Engineering,Senior Engineer,3,E10267,Fixed-term,1.0,Remote,NZD,109500,3
+E10204,Lachlan,Singh,Male,1996-11-26,2021-02-16,,Active,,United Kingdom,London,Information Technology,Systems Analyst,2,E10250,Full-time,1.0,Hybrid,GBP,43000,3
+E10205,Kieran,Kaur,Male,1999-03-06,2024-08-11,2026-03-22,Terminated,Resignation - Better Opportunity,New Zealand,Auckland,Consulting,Analyst,1,E10122,Full-time,1.0,Hybrid,NZD,60000,4
+E10206,Freya,Wilson,Prefer not to say,1991-01-07,2023-09-09,2026-01-15,Terminated,Resignation - Personal Reasons,United Kingdom,Manchester,Engineering,Engineer,2,E10291,Full-time,1.0,Hybrid,GBP,49000,4
+E10207,Amelia,Young,Female,1997-01-23,2026-03-12,,Active,,Canada,Toronto,Marketing & Bids,Bid Writer,2,E10065,Full-time,1.0,Office,CAD,77000,3
+E10208,Maya,Wong,Female,2001-01-26,2024-11-17,2026-10-19,Terminated,Resignation - Career Change,Australia,Melbourne,Engineering,Graduate Engineer,1,E10110,Full-time,1.0,Office,AUD,66000,2
+E10209,Sophie,Gagnon,Female,1989-05-20,2017-11-07,,Active,,Canada,Toronto,People & Culture,P&C Advisor,2,E10153,Part-time,0.5,Hybrid,CAD,75000,1
+E10210,Keira,Fraser,Female,1997-01-20,2024-02-25,2026-03-23,Terminated,Resignation - Personal Reasons,Australia,Brisbane,Operations,Office Administrator,1,E10058,Full-time,1.0,Office,AUD,66000,3
+E10211,Daniel,O'Brien,Male,1963-12-27,2021-01-25,,Active,,Canada,Toronto,Finance,Finance Director,5,,Full-time,1.0,Hybrid,CAD,163500,4
+E10212,Leila,Robinson,Female,1990-01-14,2025-07-11,,Active,,Australia,Melbourne,Consulting,Senior Consultant,3,E10150,Full-time,1.0,Hybrid,AUD,120500,4
+E10213,Mei,Gagnon,Female,1998-08-27,2024-07-22,2026-07-26,Terminated,Performance,New Zealand,Auckland,Operations,Office Administrator,1,E10071,Full-time,1.0,Hybrid,NZD,72000,3
+E10214,Ciara,Lee,Female,1995-10-19,2018-06-28,,Active,,Australia,Brisbane,Engineering,Graduate Engineer,1,E10110,Full-time,1.0,Office,AUD,59000,5
+E10215,Ryan,Campbell,Male,1982-11-22,2023-06-04,,Active,,Australia,Melbourne,Engineering,Senior Engineer,3,E10083,Full-time,1.0,Office,AUD,115500,4
+E10216,Callum,Roy,Male,1992-06-22,2025-09-24,,Active,,New Zealand,Auckland,Consulting,Senior Consultant,3,E10176,Full-time,1.0,Hybrid,NZD,113000,3
+E10217,Rosa,Murphy,Female,1970-12-22,2015-02-18,,Active,,United Kingdom,London,Consulting,Director,5,,Full-time,1.0,Office,GBP,92500,4
+E10218,Nate,Wong,Male,1983-06-20,2016-04-07,,Active,,Canada,Vancouver,Operations,Operations Officer,2,E10035,Part-time,0.4,Office,CAD,80000,4
+E10219,Ryan,Park,Male,1986-06-18,2026-10-09,,Active,,Australia,Melbourne,Consulting,Senior Consultant,3,E10279,Full-time,1.0,Office,AUD,99000,3
+E10220,Hugo,Fraser,Male,1998-06-30,2024-06-22,,Active,,United Kingdom,London,Engineering,Graduate Engineer,1,E10193,Full-time,1.0,Office,GBP,33500,5
+E10221,Jack,Lewis,Male,1996-04-28,2018-11-03,,Active,,Australia,Melbourne,Information Technology,Service Desk Analyst,1,E10133,Full-time,1.0,Hybrid,AUD,64500,1
+E10222,Tane,Thompson,Male,1992-12-11,2026-06-02,,Active,,Canada,Vancouver,Consulting,Consultant,2,E10061,Full-time,1.0,Hybrid,CAD,73500,3
+E10223,Cian,Thompson,Male,1986-08-28,2019-06-20,,Active,,Australia,Melbourne,Engineering,Engineer,2,E10215,Full-time,1.0,Hybrid,AUD,90000,4
+E10224,Ethan,Martin,Male,1988-10-26,2017-08-07,,Active,,United Kingdom,London,Engineering,Senior Engineer,3,E10248,Part-time,0.5,Hybrid,GBP,65500,3
+E10225,Anika,Clarke,Female,1995-12-26,2020-01-28,,Active,,Australia,Brisbane,Information Technology,Service Desk Analyst,1,E10133,Full-time,1.0,Office,AUD,69000,5
+E10226,Isla,Reid,Female,1987-10-11,2021-10-17,,Active,,New Zealand,Wellington,Marketing & Bids,Bid Writer,2,E10184,Part-time,0.8,Hybrid,NZD,90500,3
+E10227,Mia,Lee,Female,1987-10-15,2019-04-18,2025-10-24,Terminated,Resignation - Personal Reasons,Australia,Melbourne,Consulting,Senior Consultant,3,E10279,Full-time,1.0,Office,AUD,111000,3
+E10228,Charlotte,Martin,Female,1997-08-18,2025-08-03,2026-01-03,Terminated,Resignation - Relocation,Canada,Toronto,Information Technology,Service Desk Analyst,1,E10133,Full-time,1.0,Office,CAD,58000,3
+E10229,Hugo,Anderson,Male,1986-11-06,2024-12-20,,Active,,Australia,Melbourne,Operations,Operations Manager,4,E10090,Full-time,1.0,Office,AUD,132500,3
+E10230,Keira,Robinson,Female,1997-09-21,2025-05-05,2026-02-02,Terminated,Resignation - Career Change,Canada,Vancouver,Consulting,Analyst,1,E10240,Fixed-term,1.0,Hybrid,CAD,55000,3
+E10231,Chloe,Gagnon,Female,1998-10-18,2026-10-13,,Active,,Australia,Brisbane,Marketing & Bids,Marketing Coordinator,1,E10116,Full-time,1.0,Hybrid,AUD,69000,2
+E10232,Mei,Clarke,Female,1996-02-17,2021-08-06,,Active,,Australia,Melbourne,Operations,Operations Officer,2,E10263,Full-time,1.0,Office,AUD,91500,4
+E10233,Amelia,Lee,Female,2001-10-26,2022-11-24,2025-11-14,Terminated,Redundancy,Australia,Sydney,Consulting,Analyst,1,E10159,Part-time,0.8,Hybrid,AUD,66500,3
+E10234,Rosa,Robinson,Prefer not to say,1973-10-24,2019-03-23,2026-07-13,Terminated,Resignation - Career Change,United Kingdom,Manchester,Project Delivery,Senior Project Manager,4,E10019,Full-time,1.0,Office,GBP,83500,4
+E10235,Hugo,Roy,Male,1995-11-07,2020-02-06,,Active,,Australia,Sydney,Engineering,Engineer,2,E10086,Full-time,1.0,Remote,AUD,87500,5
+E10236,Felix,Ng,Male,1988-10-09,2017-12-25,,Active,,Australia,Sydney,Project Delivery,Project Officer,2,E10282,Full-time,1.0,Hybrid,AUD,89000,4
+E10237,Anika,Kaur,Female,1991-06-29,2025-12-25,,Active,,Ireland,Dublin,Project Delivery,Project Officer,2,E10126,Full-time,1.0,Hybrid,EUR,54000,2
+E10238,Oisin,Wong,Male,1986-01-02,2021-07-28,,Active,,United Kingdom,London,Engineering,Senior Engineer,3,E10248,Full-time,1.0,Hybrid,GBP,65000,3
+E10239,Grace,Campbell,Female,1997-09-18,2021-10-18,,On Leave,,United Kingdom,London,Finance,Finance Officer,1,E10003,Full-time,1.0,Office,GBP,38000,3
+E10240,Owen,Chen,Male,1990-12-13,2020-01-24,,Active,,Canada,Toronto,Consulting,Consultant,2,E10061,Full-time,1.0,Hybrid,CAD,73500,3
+E10241,Samuel,Williams,Male,1988-11-17,2018-01-05,2025-06-25,Terminated,Resignation - Relocation,Australia,Melbourne,Project Delivery,Project Manager,3,E10060,Full-time,1.0,Hybrid,AUD,115500,3
+E10242,Mei,Kaur,Female,1993-11-10,2020-05-02,,Active,,New Zealand,Auckland,Finance,Finance Officer,1,E10095,Full-time,1.0,Hybrid,NZD,59500,3
+E10243,Ruby,Nguyen,Female,2001-09-11,2026-04-26,,Active,,Canada,Toronto,Consulting,Consultant,2,E10283,Full-time,1.0,Remote,CAD,73500,3
+E10244,Sienna,Roberts,Female,1995-05-28,2016-10-19,,Active,,Canada,Toronto,Project Delivery,Project Coordinator,1,E10187,Full-time,1.0,Hybrid,CAD,60000,3
+E10245,Aroha,Stewart,Female,1991-08-26,2019-12-05,,Active,,Australia,Melbourne,Project Delivery,Project Officer,2,E10282,Full-time,1.0,Office,AUD,79500,3
+E10246,Layla,Walsh,Female,2000-02-13,2021-04-15,,Active,,United Kingdom,London,Project Delivery,Project Coordinator,1,E10056,Full-time,1.0,Hybrid,GBP,33500,3
+E10247,Dev,Khan,Male,2003-01-24,2024-02-25,,On Leave,,New Zealand,Auckland,Engineering,Graduate Engineer,1,E10027,Full-time,1.0,Hybrid,NZD,65000,1
+E10248,Kieran,Walker,Male,1971-06-05,2021-09-23,,Active,,United Kingdom,London,Engineering,Engineering Manager,5,,Full-time,1.0,Remote,GBP,92000,3
+E10249,Zoe,King,Female,1986-12-24,2025-04-06,,Active,,Canada,Toronto,People & Culture,Senior P&C Advisor,3,E10130,Full-time,1.0,Hybrid,CAD,93000,3
+E10250,Henry,Nguyen,Male,1985-03-11,2020-02-22,,Active,,United Kingdom,London,Information Technology,Senior Systems Analyst,3,E10016,Full-time,1.0,Hybrid,GBP,54000,3
+E10251,Rohan,Clarke,Male,1966-03-17,2019-01-10,2025-05-03,Terminated,Resignation - Personal Reasons,Australia,Sydney,Consulting,Director,5,,Full-time,1.0,Hybrid,AUD,204500,2
+E10252,Emily,Walsh,Female,1991-03-15,2024-11-24,,Active,,Australia,Sydney,Consulting,Consultant,2,E10117,Full-time,1.0,Hybrid,AUD,85500,2
+E10253,Mateo,Hughes,Male,1998-03-23,2020-01-28,,Active,,Canada,Vancouver,Finance,Finance Officer,1,E10053,Full-time,1.0,Hybrid,CAD,52000,3
+E10254,Mateo,Walker,Male,1996-10-07,2020-12-24,,Active,,Canada,Toronto,Project Delivery,Project Coordinator,1,E10187,Fixed-term,1.0,Hybrid,CAD,50000,3
+E10255,Rosa,Harris,Female,2004-02-06,2025-07-08,,Active,,New Zealand,Auckland,Engineering,Graduate Engineer,1,E10027,Full-time,1.0,Hybrid,NZD,70500,1
+E10256,Rosa,Williams,Female,1999-03-10,2020-03-31,,Active,,Australia,Melbourne,Operations,Office Administrator,1,E10232,Full-time,1.0,Hybrid,AUD,69500,3
+E10257,Mei,Nguyen,Female,1992-06-01,2023-04-16,2025-03-30,Terminated,Resignation - Career Change,Canada,Vancouver,Project Delivery,Project Manager,3,E10098,Full-time,1.0,Office,CAD,98500,5
+E10258,Ciara,Anderson,Female,1999-01-18,2026-02-12,,Active,,Australia,Sydney,Operations,Office Administrator,1,E10058,Full-time,1.0,Hybrid,AUD,60500,3
+E10259,Olivia,Ryan,Female,1994-10-30,2023-12-03,,Active,,New Zealand,Auckland,Information Technology,Systems Analyst,2,E10271,Full-time,1.0,Remote,NZD,94500,4
+E10260,Noah,Singh,Male,1972-01-22,2014-04-20,,Active,,Australia,Melbourne,Engineering,Principal Engineer,4,E10040,Full-time,1.0,Hybrid,AUD,139000,3
+E10261,Olivia,Fraser,Female,1984-03-21,2026-05-06,2026-08-23,Terminated,Resignation - Career Change,Australia,Brisbane,Engineering,Senior Engineer,3,E10260,Part-time,0.5,Hybrid,AUD,115500,4
+E10262,Marcus,Khan,Male,1976-11-29,2021-11-01,,Active,,Canada,Toronto,People & Culture,P&C Manager,4,,Full-time,1.0,Office,CAD,116500,4
+E10263,Ryan,Reid,Male,1985-10-16,2026-04-03,,Active,,Australia,Sydney,Operations,Senior Operations Officer,3,E10113,Fixed-term,1.0,Office,AUD,110000,2
+E10264,Mia,Stewart,Female,1988-06-01,2020-07-27,,Active,,Australia,Melbourne,Engineering,Senior Engineer,3,E10260,Full-time,1.0,Hybrid,AUD,104500,1
+E10265,Zoe,Thompson,Female,1991-10-07,2026-04-14,,Active,,Australia,Sydney,Finance,Senior Accountant,3,E10152,Full-time,1.0,Hybrid,AUD,108500,3
+E10266,William,Kelly,Male,1991-10-27,2019-12-19,,Active,,Australia,Melbourne,Engineering,Engineer,2,E10290,Part-time,0.8,Hybrid,AUD,91500,4
+E10267,Amelia,Roberts,Female,1975-01-29,2024-02-13,,Active,,Canada,Vancouver,Engineering,Principal Engineer,4,E10040,Full-time,1.0,Hybrid,CAD,123500,4
+E10268,Charlotte,Williams,Female,1991-07-13,2019-06-08,,Active,,Ireland,Dublin,Engineering,Engineer,2,E10177,Full-time,1.0,Hybrid,EUR,54000,3
+E10269,Dev,Lewis,Male,2000-12-10,2024-11-29,,Active,,United Kingdom,London,Engineering,Graduate Engineer,1,E10193,Full-time,1.0,Hybrid,GBP,31000,3
+E10270,Samuel,Khan,Male,2000-03-30,2025-10-28,2026-06-26,Terminated,Performance,United Kingdom,London,Information Technology,Systems Analyst,2,E10190,Casual,0.3,Hybrid,GBP,41500,3
+E10271,Hugo,Tan,Male,1975-04-25,2017-02-17,,Active,,New Zealand,Auckland,Information Technology,Senior Systems Analyst,3,E10016,Full-time,1.0,Hybrid,NZD,104000,3
+E10272,Alex,Ali,Non-binary,1989-11-10,2024-05-02,,Active,,Australia,Brisbane,Consulting,Associate Director,4,E10052,Full-time,1.0,Hybrid,AUD,152000,3
+E10273,Hugo,Ali,Male,2001-09-23,2026-08-17,,Active,,Canada,Vancouver,Finance,Finance Officer,1,E10053,Full-time,1.0,Office,CAD,52000,3
+E10274,Sienna,Clarke,Female,1993-12-03,2019-02-15,,Active,,Ireland,Dublin,Engineering,Graduate Engineer,1,E10296,Part-time,0.6,Hybrid,EUR,36000,3
+E10275,Mei,Wong,Female,2001-09-09,2023-11-10,,Active,,United Kingdom,London,Engineering,Graduate Engineer,1,E10294,Part-time,0.8,Hybrid,GBP,33500,3
+E10276,Kieran,Bennett,Male,1995-03-13,2024-02-01,,Active,,Ireland,Dublin,Engineering,Engineer,2,E10177,Full-time,1.0,Hybrid,EUR,55000,2
+E10277,Jack,Tremblay,Male,1996-06-01,2022-12-18,2024-12-15,Terminated,Redundancy,United Kingdom,London,Project Delivery,Project Officer,2,E10288,Full-time,1.0,Office,GBP,48500,3
+E10278,Wei,Roberts,Prefer not to say,1986-07-08,2020-01-01,,Active,,Australia,Melbourne,Consulting,Senior Consultant,3,E10029,Full-time,1.0,Hybrid,AUD,119500,3
+E10279,Ethan,Bennett,Male,1985-08-19,2023-07-22,,Active,,Australia,Sydney,Consulting,Associate Director,4,E10052,Full-time,1.0,Remote,AUD,154500,3
+E10280,William,Ali,Male,1968-01-07,2012-11-23,2025-10-28,Terminated,Resignation - Personal Reasons,Canada,Toronto,Consulting,Director,5,,Full-time,1.0,Hybrid,CAD,150500,3
+E10281,Niamh,Walsh,Female,1995-11-22,2019-05-08,,Active,,United Kingdom,London,Engineering,Graduate Engineer,1,E10294,Full-time,1.0,Hybrid,GBP,32500,4
+E10282,Mia,Jones,Female,1980-05-14,2021-07-20,,Active,,Australia,Sydney,Project Delivery,Project Manager,3,E10060,Full-time,1.0,Hybrid,AUD,101000,3
+E10283,Daniel,King,Male,1992-08-07,2024-03-26,,Active,,Canada,Vancouver,Consulting,Senior Consultant,3,E10279,Full-time,1.0,Hybrid,CAD,86000,4
+E10284,Owen,Evans,Male,1998-08-09,2023-12-08,,Active,,Canada,Toronto,Project Delivery,Project Officer,2,E10126,Full-time,1.0,Hybrid,CAD,66500,3
+E10285,Zoe,Robinson,Female,1998-02-14,2024-02-09,,Active,,Australia,Brisbane,Project Delivery,Project Officer,2,E10142,Full-time,1.0,Office,AUD,81500,2
+E10286,Hugo,Gagnon,Male,1998-09-01,2023-11-12,2026-05-05,Terminated,Resignation - Better Opportunity,Australia,Sydney,Information Technology,Systems Analyst,2,E10067,Full-time,1.0,Hybrid,AUD,76500,3
+E10287,Maya,Wilson,Female,1992-08-19,2020-02-20,,Active,,United Kingdom,London,Project Delivery,Project Coordinator,1,E10103,Full-time,1.0,Hybrid,GBP,34500,2
+E10288,Aoife,Murphy,Female,1988-11-11,2026-02-11,,Active,,United Kingdom,Manchester,Project Delivery,Senior Project Manager,4,E10060,Full-time,1.0,Hybrid,GBP,79500,5
+E10289,Tane,Stewart,Male,1983-10-06,2016-08-07,,Active,,Canada,Vancouver,Consulting,Senior Consultant,3,E10029,Fixed-term,1.0,Hybrid,CAD,99500,1
+E10290,Cian,Singh,Male,1992-06-16,2025-08-17,,Active,,Australia,Melbourne,Engineering,Senior Engineer,3,E10260,Casual,0.3,Hybrid,AUD,117000,1
+E10291,Felix,Campbell,Male,1975-10-29,2017-08-15,,Active,,United Kingdom,London,Engineering,Senior Engineer,3,E10248,Full-time,1.0,Hybrid,GBP,59500,2
+E10292,Felix,Harris,Male,1989-06-28,2021-10-01,,Active,,Australia,Melbourne,Consulting,Senior Consultant,3,E10279,Full-time,1.0,Hybrid,AUD,120500,3
+E10293,Thomas,Cooper,Male,1984-11-18,2026-02-13,,Active,,Ireland,Dublin,Information Technology,Senior Systems Analyst,3,E10016,Part-time,0.8,Hybrid,EUR,62500,3
+E10294,Ella,Taylor,Female,1999-12-16,2025-03-19,,Active,,United Kingdom,London,Engineering,Engineer,2,E10238,Full-time,1.0,Hybrid,GBP,49000,3
+E10295,Oisin,Kelly,Male,1982-08-02,2023-06-14,2025-10-15,Terminated,Resignation - Better Opportunity,Australia,Sydney,Consulting,Director,5,,Full-time,1.0,Hybrid,AUD,169000,4
+E10296,Jamie,Nguyen,Male,1998-03-08,2024-10-06,,Active,,Ireland,Dublin,Engineering,Engineer,2,E10177,Full-time,1.0,Hybrid,EUR,50500,4
+E10297,Grace,Wong,Female,1983-11-30,2019-08-10,,Active,,New Zealand,Auckland,Project Delivery,Project Manager,3,E10198,Full-time,1.0,Remote,NZD,126000,4
+E10298,Niamh,Thompson,Female,1999-10-09,2022-08-27,2025-04-12,Terminated,Resignation - Career Change,Canada,Toronto,Operations,Office Administrator,1,E10004,Full-time,1.0,Hybrid,CAD,52000,4
+E10299,Ibrahim,Ali,Male,1995-01-18,2024-05-09,2026-04-26,Terminated,Resignation - Personal Reasons,Australia,Melbourne,Engineering,Engineer,2,E10215,Full-time,1.0,Remote,AUD,78000,3
+E10300,Aroha,Lewis,Female,1990-05-01,2023-12-01,,Active,,New Zealand,Wellington,Information Technology,Senior Systems Analyst,3,E10016,Full-time,1.0,Hybrid,NZD,105500,4
