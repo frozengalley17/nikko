@@ -54,6 +54,10 @@ h2{font-size:26px;margin:0 0 20px}
 .certs li{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px 18px;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
 .certs b{font-weight:600}
 .certs span{color:var(--muted);font-size:14px}
+.card.wide{grid-column:1/-1}
+.shot{display:block;width:100%;height:auto;border:1px solid var(--line);border-radius:8px;margin:4px 0 14px}
+.links{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 14px}
+.links a{font-size:14px;font-weight:600;text-decoration:none;border:1px solid var(--accent);border-radius:8px;padding:6px 12px}
 footer{padding:36px 0 48px;border-top:1px solid var(--line);color:var(--muted);font-size:14px}
 </style>
 </head>
@@ -76,9 +80,17 @@ footer{padding:36px 0 48px;border-top:1px solid var(--line);color:var(--muted);f
 
 <section id="projects">
   <h2>Projects</h2>
-  <div class="note">All projects use a fictional company and a synthetic dataset of about 300 employees. No real employee data is used anywhere on this site.</div>
+  <div class="note">All projects use a fictional company, Harborline Consulting Group, and a synthetic dataset of 300 employees. No real employee data is used anywhere on this site.</div>
   <div class="grid">
-    <article class="card"><span class="status">In progress</span><h3>Headcount Dashboard Workbook</h3><p>An Excel workbook where a raw employee list is pasted in and automatically becomes a dashboard: headcount, joiners, leavers and turnover.</p><ul class="tags"><li>Excel</li><li>PivotTables</li><li>XLOOKUP</li><li>Power Query</li></ul></article>
+    <article class="card wide"><span class="status">Complete</span><h3>HR Dashboard Workbook (Excel)</h3>
+      <p>An Excel workbook where a raw employee list is pasted into one sheet and the dashboard updates by itself: KPI cards for headcount, FTE, new hires, terminations, turnover and tenure, plus charts by country, department and gender, and hires vs terminations over time. It has an as-of date, country and department filters, and automatic data checks. It holds up to 2,000 records and uses no macros.</p>
+      <img class="shot" src="images/dashboard.png" alt="Screenshot of the Harborline People and Culture dashboard in Excel, showing KPI cards and charts" loading="lazy">
+      <div class="links"><a href="files/HR_Dashboard_Template.xlsx" download>Download the workbook</a></div>
+      <ul class="tags"><li>Excel</li><li>COUNTIFS / SUMIFS</li><li>Dashboards</li><li>Data checks</li></ul></article>
+    <article class="card wide"><span class="status">Complete</span><h3>Synthetic HR Dataset: Harborline Consulting Group</h3>
+      <p>A fictional company I built to power every project here: 300 employee records across 5 countries and 10 offices, with active, on-leave and terminated staff. The workbook includes a README of assumptions, lookup lists, and a Summary sheet with live headcount, hires and turnover formulas.</p>
+      <div class="links"><a href="files/Harborline_HR_Synthetic_Dataset.xlsx" download>Download the dataset (Excel)</a><a href="files/Harborline_Employees.csv" download>Download the employee list (CSV)</a></div>
+      <ul class="tags"><li>Excel</li><li>Data modelling</li><li>Formulas</li><li>Documentation</li></ul></article>
     <article class="card"><span class="status">Planned</span><h3>Power BI HR Dashboard</h3><p>An interactive dashboard built on the same dataset, showing workforce trends by office, department and tenure.</p><ul class="tags"><li>Power BI</li><li>Data modelling</li></ul></article>
     <article class="card"><span class="status">Planned</span><h3>HR Data Audit</h3><p>A review of the synthetic dataset for duplicates, missing fields and inconsistent values, with a clear list of fixes and a data-quality checklist.</p><ul class="tags"><li>Data quality</li><li>Excel</li><li>Documentation</li></ul></article>
     <article class="card"><span class="status">Planned</span><h3>HR Process SOPs</h3><p>Step-by-step procedures for onboarding and offboarding, written so a new team member could follow them on day one.</p><ul class="tags"><li>SOPs</li><li>Onboarding</li><li>Offboarding</li></ul></article>
