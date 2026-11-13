@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Nikko Malabuyoc | HR Administration &amp; HRIS</title>
+<style>
+:root{
+  --bg:#faf8f5;--surface:#ffffff;--text:#1f2430;--muted:#5d6472;--line:#e5e0d8;--accent:#3d5a80;--accent-soft:#e6edf5;--tag:#f0ebe3;
+  box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){--bg:#14171c;--surface:#1c2027;--text:#eceff4;--muted:#a3aab8;--line:#2c323c;--accent:#8fb0d9;--accent-soft:#232c3a;--tag:#262b34;color-scheme:dark;}
+}
+:root[data-theme="dark"]{--bg:#14171c;--surface:#1c2027;--text:#eceff4;--muted:#a3aab8;--line:#2c323c;--accent:#8fb0d9;--accent-soft:#232c3a;--tag:#262b34;color-scheme:dark;}
+html{scroll-behavior:smooth;scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.65 system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+a{color:var(--accent)}
+.wrap{max-width:900px;margin:0 auto;padding:0 20px}
+nav{position:sticky;top:env(safe-area-inset-top,0px);background:var(--bg);border-bottom:1px solid var(--line);z-index:5}
+nav .wrap{display:flex;gap:20px;align-items:center;justify-content:space-between;padding-top:12px;padding-bottom:12px}
+nav b{font-size:15px}
+nav div{display:flex;gap:16px;font-size:14px;flex-wrap:wrap}
+nav a{text-decoration:none;color:var(--muted)}
+nav a:hover{color:var(--accent)}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);background:var(--bg);z-index:10}
+header.hero{padding:72px 0 48px}
+.eyebrow{color:var(--accent);font-weight:600;font-size:14px;letter-spacing:.06em;text-transform:uppercase}
+h1{font-size:clamp(34px,6vw,52px);line-height:1.1;margin:10px 0 16px}
+.lead{font-size:19px;color:var(--muted);max-width:640px}
+.cta{display:flex;gap:12px;margin-top:26px;flex-wrap:wrap}
+.btn{display:inline-block;padding:10px 18px;border-radius:8px;background:var(--accent);color:var(--bg);text-decoration:none;font-weight:600;font-size:15px}
+.btn.alt{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+section{padding:44px 0;border-top:1px solid var(--line)}
+h2{font-size:26px;margin:0 0 20px}
+.grid{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:20px}
+.card h3{margin:0 0 6px;font-size:18px}
+.card p{margin:0 0 12px;color:var(--muted);font-size:15px}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin:0;padding:0;list-style:none}
+.tags li{background:var(--tag);border-radius:999px;padding:3px 11px;font-size:13px}
+.status{display:inline-block;font-size:12px;font-weight:600;color:var(--accent);background:var(--accent-soft);border-radius:6px;padding:2px 8px;margin-bottom:10px}
+.note{background:var(--accent-soft);border-radius:10px;padding:14px 18px;font-size:14px;color:var(--muted);margin-bottom:22px}
+.job{padding:0 0 22px 18px;border-left:2px solid var(--line);margin-left:4px;position:relative}
+.job::before{content:"";position:absolute;left:-7px;top:6px;width:12px;height:12px;border-radius:50%;background:var(--accent)}
+.job h3{margin:0;font-size:17px}
+.job .meta{color:var(--muted);font-size:14px;margin-bottom:6px}
+.job ul{margin:6px 0 0;padding-left:18px;color:var(--muted);font-size:15px}
+.skills{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))}
+.skills h3{font-size:15px;margin:0 0 8px;color:var(--muted);font-weight:600}
+.certs{list-style:none;margin:0;padding:0;display:grid;gap:12px}
+.certs li{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px 18px;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+.certs b{font-weight:600}
+.certs span{color:var(--muted);font-size:14px}
+footer{padding:36px 0 48px;border-top:1px solid var(--line);color:var(--muted);font-size:14px}
+</style>
+</head>
+<body>
+<nav><div class="wrap"><b>Nikko Malabuyoc</b><div><a href="#about">About</a><a href="#projects">Projects</a><a href="#experience">Experience</a><a href="#skills">Skills</a><a href="#certifications">Certifications</a><a href="#contact">Contact</a></div></div></nav>
+
+<main class="wrap">
+<header class="hero">
+  <div class="eyebrow">People &amp; Culture Administrator II · HR Operations · HRIS Support &amp; Reporting</div>
+  <h1>Hi, I’m Nikko Malabuyoc.</h1>
+  <p class="lead">I keep people data accurate and turn it into reports leaders can act on. With 6+ years of experience, I support offices across five countries from a global shared services team.</p>
+  <div class="cta"><a class="btn" href="#projects">See my projects</a><a class="btn alt" href="#contact">Get in touch</a></div>
+</header>
+
+<section id="about">
+  <h2>About</h2>
+  <p>I’m a People &amp; Culture Administrator II with 6+ years of experience in HR administration, HRIS reporting and employee lifecycle management. Since October 2020 I’ve worked at NDY, supporting offices in Australia, New Zealand, the UK, Ireland and Canada.</p>
+  <p>My day-to-day covers onboarding and offboarding, contracts and HR letters, records compliance and confidential data handling, plus the weekly headcount report. Earlier roles in IT support, order management and virtual assistance taught me to document clearly and communicate well with distributed, multicultural teams.</p>
+</section>
+
+<section id="projects">
+  <h2>Projects</h2>
+  <div class="note">All projects use a fictional company and a synthetic dataset of about 300 employees. No real employee data is used anywhere on this site.</div>
+  <div class="grid">
+    <article class="card"><span class="status">In progress</span><h3>Headcount Dashboard Workbook</h3><p>An Excel workbook where a raw employee list is pasted in and automatically becomes a dashboard: headcount, joiners, leavers and turnover.</p><ul class="tags"><li>Excel</li><li>PivotTables</li><li>XLOOKUP</li><li>Power Query</li></ul></article>
+    <article class="card"><span class="status">Planned</span><h3>Power BI HR Dashboard</h3><p>An interactive dashboard built on the same dataset, showing workforce trends by office, department and tenure.</p><ul class="tags"><li>Power BI</li><li>Data modelling</li></ul></article>
+    <article class="card"><span class="status">Planned</span><h3>HR Data Audit</h3><p>A review of the synthetic dataset for duplicates, missing fields and inconsistent values, with a clear list of fixes and a data-quality checklist.</p><ul class="tags"><li>Data quality</li><li>Excel</li><li>Documentation</li></ul></article>
+    <article class="card"><span class="status">Planned</span><h3>HR Process SOPs</h3><p>Step-by-step procedures for onboarding and offboarding, written so a new team member could follow them on day one.</p><ul class="tags"><li>SOPs</li><li>Onboarding</li><li>Offboarding</li></ul></article>
+    <article class="card"><span class="status">Planned</span><h3>Workforce Insights Presentation</h3><p>A short slide deck that explains the headcount findings to a non-technical audience and recommends next steps.</p><ul class="tags"><li>Slides</li><li>Storytelling</li></ul></article>
+  </div>
+</section>
+
+<section id="experience">
+  <h2>Experience</h2>
+  <div class="job"><h3>People &amp; Culture Administrator II</h3><div class="meta">NDY · Oct 2020 to present · Global shared services</div>
+    <ul><li>Produce the weekly HR headcount report for offices in Australia, New Zealand, the UK, Ireland and Canada, giving leaders accurate data for workforce planning.</li><li>Process new hires and terminations across the full employee lifecycle, keeping records accurate and audit-ready.</li><li>Draft and issue employment contracts and official HR letters in line with company policy and local regulations.</li><li>Manage executive calendars and arrange domestic and international travel for the leadership team.</li><li>Act as a first point of contact for HR inquiries, handling employee information with confidentiality.</li></ul></div>
+  <div class="job"><h3>Virtual Assistant</h3><div class="meta">Platinum Seats Inc. · Aug 2018 to Feb 2020</div>
+    <ul><li>Completed high-volume data entry with a focus on accuracy and database integrity.</li><li>Researched industry trends and competitor activity to support business decisions.</li><li>Handled administrative tasks remotely with strong self-management.</li></ul></div>
+  <div class="job"><h3>Email Support, E-commerce</h3><div class="meta">AdoreMe</div>
+    <ul><li>Managed customer service tickets and email inquiries.</li><li>Processed refunds, returns and replacements.</li><li>Handled escalations and tracked orders for customers.</li></ul></div>
+  <div class="job"><h3>Order Management Specialist, then Chat Support Representative</h3><div class="meta">OAM (clients: DoorDash, then Circles.Life) · Mar 2017 to Jan 2018</div>
+    <ul><li>Managed end-to-end order processing and fulfillment for DoorDash food delivery.</li><li>Gave real-time chat support to consumers and delivery partners.</li><li>Monitored order accuracy and escalated recurring issues.</li><li>Transferred to the Circles.Life account as a chat support representative.</li></ul></div>
+  <div class="job"><h3>Process Executive</h3><div class="meta">Infosys BPO (client: Comcast) · Aug 2015 to Dec 2016</div>
+    <ul><li>Provided IT helpdesk support to corporate employees on the Comcast account, resolving technical inquiries to minimize downtime.</li><li>Helped create SOPs, learning modules and the knowledge base from scratch.</li><li>Documented recurring issues and added them to knowledge-base resources, improving first-contact resolution.</li></ul></div>
+  <div class="job"><h3>Education</h3><div class="meta">Mapúa Malayan Colleges Laguna · May 2014</div>
+    <ul><li>Bachelor of Science in Marine Engineering</li></ul></div>
+</section>
+
+<section id="skills">
+  <h2>Skills</h2>
+  <div class="skills">
+    <div><h3>HR operations</h3><ul class="tags"><li>Onboarding &amp; offboarding</li><li>Employee records</li><li>Contracts &amp; letters</li><li>Policy compliance</li><li>Confidential data handling</li></ul></div>
+    <div><h3>Systems &amp; reporting</h3><ul class="tags"><li>Weekly headcount reporting</li><li>Advanced Excel</li><li>PivotTables</li><li>XLOOKUP</li><li>Power Query</li><li>VBA / macros</li><li>Yodah</li><li>Deltek Vision</li><li>Taleo</li><li>Cornerstone</li><li>Oracle</li><li>Formstack</li><li>Trello</li></ul></div>
+    <div><h3>Administration &amp; support</h3><ul class="tags"><li>Executive calendar &amp; travel</li><li>Stakeholder communication</li><li>Data entry</li><li>Market research</li><li>Customer support</li><li>Email support</li><li>Zendesk</li><li>Process improvement</li></ul></div>
+  </div>
+</section>
+
+<section id="certifications">
+  <h2>Certifications</h2>
+  <ul class="certs">
+    <li><div><b>Generative AI Essentials: From Fundamentals to Real-World Applications</b><br><span>IBM</span></div><span>Nov 2026</span></li>
+    <li><div><b>Introduction to Data Analysis using Microsoft Excel</b><br><span>Coursera</span></div><span>Sep 2022</span></li>
+    <li><div><b>The Bits and Bytes of Computer Networking</b><br><span>Coursera</span></div><span>Jul 2020</span></li>
+    <li><div><b>Improve Your English Communication Skills Specialization</b><br><span>Coursera</span></div><span>Jul 2020</span></li>
+    <li><div><b>Build Your Professional ePortfolio in English</b><br><span>Coursera</span></div><span>Jun 2020</span></li>
+    <li><div><b>Speak English Professionally: In Person, Online &amp; On the Phone</b><br><span>Coursera</span></div><span>Jun 2020</span></li>
+    <li><div><b>Write Professional Emails in English</b><br><span>Coursera</span></div><span>Jun 2020</span></li>
+    <li><div><b>Introduction to Search Engine Optimization</b><br><span>Coursera</span></div><span>Jun 2020</span></li>
+    <li><div><b>Technical Support Fundamentals</b><br><span>Coursera</span></div><span>Jun 2020</span></li>
+  </ul>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p>I’m open to HR administrator and HRIS roles. The best way to reach me:</p>
+  <p><a href="mailto:n.malabuyoc@icloud.com">n.malabuyoc@icloud.com</a> · <a href="https://www.linkedin.com/in/nikkomelvin">LinkedIn</a> · Cavite, Philippines</p>
+</section>
+</main>
+
+<footer><div class="wrap">© Nikko Malabuyoc. Sample projects use fictional, synthetic data.</div></footer>
+</body>
+</html>
